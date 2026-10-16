@@ -40,7 +40,7 @@
  }
  // Early Jerusalem: clickable markers synchronized with the original source-page labels and photos.
  const map=document.getElementById('sviva6-map');
- if(map){
+ if(map && !map.hasAttribute('data-sviva7')){
   const data=JSON.parse(document.getElementById('sviva6-data').textContent),lang=document.body.dataset.lang;
   const photo=document.getElementById('sviva6-photo'),name=document.getElementById('sviva6-name');
   const buttons=[...document.querySelectorAll('[data-place]')];

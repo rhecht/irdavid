@@ -1,0 +1,15 @@
+/* Preserve the original 2007 archaeological map and highlight its authentic region artwork. */
+.sviva6-map{isolation:isolate}
+.sviva7-region{position:absolute;z-index:2;display:block;pointer-events:none;opacity:0;transition:opacity .14s linear;object-fit:fill}
+.sviva7-region.sviva7-on{opacity:.48;filter:saturate(1.05)}
+.sviva7-hitarea{position:absolute;inset:0;width:100%;height:100%;z-index:3;pointer-events:none;overflow:hidden}
+.sviva7-shape{pointer-events:visibleFill;cursor:pointer;stroke:none;outline:none;transition:stroke .12s}
+.sviva7-shape:focus-visible{stroke:#fff4bb;stroke-opacity:.85;stroke-width:1.4px;paint-order:stroke fill}
+.sviva6-pin.sviva7-pin{z-index:5;cursor:pointer;touch-action:manipulation}
+.sviva6-pin.sviva7-pin.sviva7-hover,.sviva6-pin.sviva7-pin:focus-visible{outline:1px solid #ffe56a!important;outline-offset:1px;box-shadow:0 0 0 2px #181108b3,0 0 0 4px #ffdd70a6!important;border-radius:2px;background:#e8b52a77!important}
+.sviva7-tooltip{display:block;position:absolute;z-index:7;pointer-events:none;transform:translate(-50%,calc(-100% - 10px));max-width:min(80%,260px);min-width:65px;white-space:normal;width:max-content;padding:3px 6px;background:#fff7ce;color:#171006;border:1px solid #9e7429;box-shadow:1px 2px 4px #0008;font-size:11px;font-weight:bold;line-height:1.35;text-align:center}
+.sviva7-tooltip[hidden]{display:none}
+.sviva6-aside h2{min-height:1.4em}
+.sviva6-listlink:focus-visible{outline:2px solid #f5c955;outline-offset:-2px}
+.sviva6-thumbnail{height:180px;object-fit:cover}
+@media(prefers-reduced-motion:reduce){.sviva7-region{transition:none}}
