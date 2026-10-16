@@ -1,0 +1,593 @@
+{
+  "inputs": {
+    "swf_count": 46,
+    "screenshots": 59,
+    "audio_files": 47,
+    "video_files": 7,
+    "archived_html_pages_by_language": {
+      "he": 44,
+      "en": 9,
+      "fr": 7,
+      "es": 7,
+      "ru": 7
+    },
+    "original_timeline_periods": 16,
+    "swfs": [
+      {
+        "file": "BN_157.swf",
+        "size": 295539,
+        "signature": "CWS",
+        "swf_version": 9,
+        "stage_px": [
+          856.0,
+          250.0
+        ],
+        "fps": 20.0,
+        "frames": 844
+      },
+      {
+        "file": "CityofDavidPanorama.swf",
+        "size": 451884,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          775.0,
+          250.0
+        ],
+        "fps": 30.0,
+        "frames": 45
+      },
+      {
+        "file": "CityofDavidPanorama_frn.swf",
+        "size": 451919,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          775.0,
+          250.0
+        ],
+        "fps": 30.0,
+        "frames": 45
+      },
+      {
+        "file": "CityofDavidSviva3.swf",
+        "size": 1509389,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          533.0,
+          700.0
+        ],
+        "fps": 25.0,
+        "frames": 35
+      },
+      {
+        "file": "CityofDavidSviva3_english.swf",
+        "size": 1510932,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          533.0,
+          700.0
+        ],
+        "fps": 25.0,
+        "frames": 35
+      },
+      {
+        "file": "CityofDavidSviva3_esp.swf",
+        "size": 1511033,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          533.0,
+          700.0
+        ],
+        "fps": 25.0,
+        "frames": 35
+      },
+      {
+        "file": "CityofDavidSviva3_frn.swf",
+        "size": 1510848,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          533.0,
+          700.0
+        ],
+        "fps": 25.0,
+        "frames": 35
+      },
+      {
+        "file": "CityofDavidSviva3_russian.swf",
+        "size": 1512098,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          533.0,
+          700.0
+        ],
+        "fps": 25.0,
+        "frames": 35
+      },
+      {
+        "file": "CityofDavidTimeline.swf",
+        "size": 108704,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          770.0,
+          340.0
+        ],
+        "fps": 120.0,
+        "frames": 51
+      },
+      {
+        "file": "CityofDavidWaterSystem.swf",
+        "size": 498077,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          770.0,
+          250.0
+        ],
+        "fps": 30.0,
+        "frames": 57
+      },
+      {
+        "file": "MatchingPairs2.swf",
+        "size": 159578,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          570.0,
+          340.0
+        ],
+        "fps": 25.0,
+        "frames": 2
+      },
+      {
+        "file": "adarot.swf",
+        "size": 101958,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 5
+      },
+      {
+        "file": "al-amuta.swf",
+        "size": 88289,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 6
+      },
+      {
+        "file": "ar-eng.swf",
+        "size": 77995,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 34
+      },
+      {
+        "file": "ar.swf",
+        "size": 69324,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 34
+      },
+      {
+        "file": "bg1.swf",
+        "size": 88195,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg2.swf",
+        "size": 49699,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg3.swf",
+        "size": 90047,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg4.swf",
+        "size": 81273,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg5.swf",
+        "size": 54810,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg6.swf",
+        "size": 78216,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bg7.swf",
+        "size": 101174,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 47
+      },
+      {
+        "file": "bgsound.swf",
+        "size": 1475799,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          523.0,
+          307.0
+        ],
+        "fps": 30.0,
+        "frames": 5555
+      },
+      {
+        "file": "bor-eng.swf",
+        "size": 46358,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 57
+      },
+      {
+        "file": "bor.swf",
+        "size": 36729,
+        "signature": "FWS",
+        "swf_version": 3,
+        "stage_px": [
+          800.0,
+          480.0
+        ],
+        "fps": 12.0,
+        "frames": 57
+      },
+      {
+        "file": "chooselanguagenavdragger.swf",
+        "size": 12184,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 30.0,
+        "frames": 30
+      },
+      {
+        "file": "cityofdavidnav.swf",
+        "size": 54738,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cityofdavidnav_esp.swf",
+        "size": 38018,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cityofdavidnav_frn.swf",
+        "size": 38789,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cityofdavidnav_rus.swf",
+        "size": 38544,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cityofdavidnaveng.swf",
+        "size": 29355,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cityofdavidnavengV2.swf",
+        "size": 58974,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          97.0
+        ],
+        "fps": 30.0,
+        "frames": 16
+      },
+      {
+        "file": "cod_minisite1.swf",
+        "size": 350965,
+        "signature": "CWS",
+        "swf_version": 7,
+        "stage_px": [
+          775.0,
+          450.0
+        ],
+        "fps": 30.0,
+        "frames": 1
+      },
+      {
+        "file": "dragmasker.swf",
+        "size": 526983,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "dragmasker_eng.swf",
+        "size": 530038,
+        "signature": "FWS",
+        "swf_version": 8,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "dragmasker_esp.swf",
+        "size": 530031,
+        "signature": "FWS",
+        "swf_version": 8,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "dragmasker_frn.swf",
+        "size": 524817,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "dragmasker_rus (1).swf",
+        "size": 524719,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "dragmasker_rus.swf",
+        "size": 524719,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          515.0,
+          350.0
+        ],
+        "fps": 21.0,
+        "frames": 117
+      },
+      {
+        "file": "games_tetris.swf",
+        "size": 494190,
+        "signature": "FWS",
+        "swf_version": 7,
+        "stage_px": [
+          665.0,
+          495.0
+        ],
+        "fps": 100.0,
+        "frames": 40
+      },
+      {
+        "file": "hp4.swf",
+        "size": 707875,
+        "signature": "CWS",
+        "swf_version": 8,
+        "stage_px": [
+          780.0,
+          370.0
+        ],
+        "fps": 30.0,
+        "frames": 524
+      },
+      {
+        "file": "intro.swf",
+        "size": 313218,
+        "signature": "CWS",
+        "swf_version": 6,
+        "stage_px": [
+          780.0,
+          420.0
+        ],
+        "fps": 23.0,
+        "frames": 540
+      },
+      {
+        "file": "ninja.swf",
+        "size": 747961,
+        "signature": "FWS",
+        "swf_version": 6,
+        "stage_px": [
+          750.0,
+          380.0
+        ],
+        "fps": 24.0,
+        "frames": 5
+      },
+      {
+        "file": "shop_he (1).swf",
+        "size": 8859,
+        "signature": "FWS",
+        "swf_version": 9,
+        "stage_px": [
+          550.0,
+          400.0
+        ],
+        "fps": 12.0,
+        "frames": 1
+      },
+      {
+        "file": "shop_he.swf",
+        "size": 8859,
+        "signature": "FWS",
+        "swf_version": 9,
+        "stage_px": [
+          550.0,
+          400.0
+        ],
+        "fps": 12.0,
+        "frames": 1
+      },
+      {
+        "file": "timeline_as3.swf",
+        "size": 125450,
+        "signature": "CWS",
+        "swf_version": 9,
+        "stage_px": [
+          760.0,
+          260.0
+        ],
+        "fps": 36.0,
+        "frames": 1
+      }
+    ],
+    "screenshots_languages": {
+      "intro": 12,
+      "menu": 7,
+      "hebrew": 9,
+      "english": 10,
+      "french": 7,
+      "espanol": 7,
+      "russian": 7
+    },
+    "restored_video_conversions": [
+      "Emek.wmv -> Emek.mp4",
+      "segwayinter.WMV -> segwayinter.mp4"
+    ],
+    "additional_pdf": "New York Times 2005 archaeological article (1 scanned page)"
+  },
+  "notes": [
+    "Archive includes original pages in five languages and original Flash/bitmap assets.",
+    "Some English/other-language Flash timelines do not contain their historical content in archived HTML; original Hebrew texts retained as-is.",
+    "HTTP ASP form submission intentionally removed.",
+    "Nine external place*.flv source videos still not supplied.",
+    "Intro background music requires an explicit user gesture in modern browsers.",
+    "Intro SWF is 780×420, 23 fps, 540 frames. HTML scene changes approximate timing and positioning; not frame-exact ActionScript.",
+    "Browser tests could not execute due to browsing/navigation restrictions of this runtime. JS syntax, resource paths, MP3s, MP4s, archive integrity can be verified independently."
+  ]
+}

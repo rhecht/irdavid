@@ -1,0 +1,690 @@
+[
+  {
+    "file": "assets/gallery/media-001.webp",
+    "thumb": "assets/thumbs/media-001.webp",
+    "source": "BN_157_id0001_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-002.webp",
+    "thumb": "assets/thumbs/media-002.webp",
+    "source": "BN_157_id0003_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-003.webp",
+    "thumb": "assets/thumbs/media-003.webp",
+    "source": "BN_157_id0009_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-004.webp",
+    "thumb": "assets/thumbs/media-004.webp",
+    "source": "BN_157_id0011_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-005.webp",
+    "thumb": "assets/thumbs/media-005.webp",
+    "source": "BN_157_id0013_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-006.webp",
+    "thumb": "assets/thumbs/media-006.webp",
+    "source": "BN_157_id0015_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-007.webp",
+    "thumb": "assets/thumbs/media-007.webp",
+    "source": "BN_157_id0017_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-008.webp",
+    "thumb": "assets/thumbs/media-008.webp",
+    "source": "BN_157_id0019_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-009.webp",
+    "thumb": "assets/thumbs/media-009.webp",
+    "source": "BN_157_id0021_DefineBitsJPEG2.jpg",
+    "group": "BN_157",
+    "width": 856,
+    "height": 250
+  },
+  {
+    "file": "assets/gallery/media-010.webp",
+    "thumb": "assets/thumbs/media-010.webp",
+    "source": "CityofDavidPanorama_id0030_DefineBits.jpg",
+    "group": "CityofDavidPanorama",
+    "width": 5394,
+    "height": 400
+  },
+  {
+    "file": "assets/gallery/media-011.webp",
+    "thumb": "assets/thumbs/media-011.webp",
+    "source": "CityofDavidSviva3_id0032_DefineBitsJPEG2.jpg",
+    "group": "CityofDavidSviva3",
+    "width": 1333,
+    "height": 1768
+  },
+  {
+    "file": "assets/gallery/media-012.webp",
+    "thumb": "assets/thumbs/media-012.webp",
+    "source": "CityofDavidWaterSystem_id0041_DefineBits.jpg",
+    "group": "CityofDavidWaterSystem",
+    "width": 942,
+    "height": 589
+  },
+  {
+    "file": "assets/gallery/media-013.webp",
+    "thumb": "assets/thumbs/media-013.webp",
+    "source": "CityofDavidWaterSystem_id0163_DefineBitsLossless.png",
+    "group": "CityofDavidWaterSystem",
+    "width": 460,
+    "height": 248
+  },
+  {
+    "file": "assets/gallery/media-014.webp",
+    "thumb": "assets/thumbs/media-014.webp",
+    "source": "CityofDavidWaterSystem_id0166_DefineBitsLossless.png",
+    "group": "CityofDavidWaterSystem",
+    "width": 360,
+    "height": 245
+  },
+  {
+    "file": "assets/gallery/media-015.webp",
+    "thumb": "assets/thumbs/media-015.webp",
+    "source": "CityofDavidWaterSystem_id0176_DefineBitsLossless.png",
+    "group": "CityofDavidWaterSystem",
+    "width": 261,
+    "height": 245
+  },
+  {
+    "file": "assets/gallery/media-016.webp",
+    "thumb": "assets/thumbs/media-016.webp",
+    "source": "CityofDavidWaterSystem_id0181_DefineBitsLossless.png",
+    "group": "CityofDavidWaterSystem",
+    "width": 261,
+    "height": 245
+  },
+  {
+    "file": "assets/gallery/media-017.webp",
+    "thumb": "assets/thumbs/media-017.webp",
+    "source": "CityofDavidWaterSystem_id0186_DefineBitsLossless.png",
+    "group": "CityofDavidWaterSystem",
+    "width": 261,
+    "height": 245
+  },
+  {
+    "file": "assets/gallery/media-018.webp",
+    "thumb": "assets/thumbs/media-018.webp",
+    "source": "MatchingPairs2_id0084_DefineBitsJPEG2.jpg",
+    "group": "MatchingPairs2",
+    "width": 310,
+    "height": 293
+  },
+  {
+    "file": "assets/gallery/media-019.webp",
+    "thumb": "assets/thumbs/media-019.webp",
+    "source": "adarot_id0001_DefineBitsJPEG2.jpg",
+    "group": "adarot",
+    "width": 265,
+    "height": 422
+  },
+  {
+    "file": "assets/gallery/media-020.webp",
+    "thumb": "assets/thumbs/media-020.webp",
+    "source": "adarot_id0002_DefineBitsJPEG2.jpg",
+    "group": "adarot",
+    "width": 427,
+    "height": 252
+  },
+  {
+    "file": "assets/gallery/media-021.webp",
+    "thumb": "assets/thumbs/media-021.webp",
+    "source": "bg1_id0001_DefineBits.jpg",
+    "group": "bg1",
+    "width": 706,
+    "height": 536
+  },
+  {
+    "file": "assets/gallery/media-022.webp",
+    "thumb": "assets/thumbs/media-022.webp",
+    "source": "bg2_id0001_DefineBits.jpg",
+    "group": "bg2",
+    "width": 480,
+    "height": 768
+  },
+  {
+    "file": "assets/gallery/media-023.webp",
+    "thumb": "assets/thumbs/media-023.webp",
+    "source": "bg3_id0001_DefineBits.jpg",
+    "group": "bg3",
+    "width": 712,
+    "height": 556
+  },
+  {
+    "file": "assets/gallery/media-024.webp",
+    "thumb": "assets/thumbs/media-024.webp",
+    "source": "bg4_id0001_DefineBits.jpg",
+    "group": "bg4",
+    "width": 676,
+    "height": 658
+  },
+  {
+    "file": "assets/gallery/media-025.webp",
+    "thumb": "assets/thumbs/media-025.webp",
+    "source": "bg5_id0001_DefineBits.jpg",
+    "group": "bg5",
+    "width": 636,
+    "height": 779
+  },
+  {
+    "file": "assets/gallery/media-026.webp",
+    "thumb": "assets/thumbs/media-026.webp",
+    "source": "bg6_id0001_DefineBits.jpg",
+    "group": "bg6",
+    "width": 644,
+    "height": 650
+  },
+  {
+    "file": "assets/gallery/media-027.webp",
+    "thumb": "assets/thumbs/media-027.webp",
+    "source": "bg7_id0001_DefineBits.jpg",
+    "group": "bg7",
+    "width": 610,
+    "height": 584
+  },
+  {
+    "file": "assets/gallery/media-028.webp",
+    "thumb": "assets/thumbs/media-028.webp",
+    "source": "bor-eng_id0001_DefineBits.jpg",
+    "group": "bor-eng",
+    "width": 318,
+    "height": 457
+  },
+  {
+    "file": "assets/gallery/media-029.webp",
+    "thumb": "assets/thumbs/media-029.webp",
+    "source": "cod_minisite1_id0478_DefineBits.jpg",
+    "group": "cod_minisite1",
+    "width": 322,
+    "height": 177
+  },
+  {
+    "file": "assets/gallery/media-030.webp",
+    "thumb": "assets/thumbs/media-030.webp",
+    "source": "cod_minisite1_id0482_DefineBits.jpg",
+    "group": "cod_minisite1",
+    "width": 322,
+    "height": 177
+  },
+  {
+    "file": "assets/gallery/media-031.webp",
+    "thumb": "assets/thumbs/media-031.webp",
+    "source": "cod_minisite1_id0485_DefineBits.jpg",
+    "group": "cod_minisite1",
+    "width": 322,
+    "height": 177
+  },
+  {
+    "file": "assets/gallery/media-032.webp",
+    "thumb": "assets/thumbs/media-032.webp",
+    "source": "cod_minisite1_id0488_DefineBits.jpg",
+    "group": "cod_minisite1",
+    "width": 300,
+    "height": 167
+  },
+  {
+    "file": "assets/gallery/media-033.webp",
+    "thumb": "assets/thumbs/media-033.webp",
+    "source": "cod_minisite1_id0497_DefineBitsJPEG2.jpg",
+    "group": "cod_minisite1",
+    "width": 341,
+    "height": 420
+  },
+  {
+    "file": "assets/gallery/media-034.webp",
+    "thumb": "assets/thumbs/media-034.webp",
+    "source": "dragmasker_id0030_DefineBitsJPEG2.jpg",
+    "group": "dragmasker",
+    "width": 772,
+    "height": 527
+  },
+  {
+    "file": "assets/gallery/media-035.webp",
+    "thumb": "assets/thumbs/media-035.webp",
+    "source": "dragmasker_id0107_DefineBits.jpg",
+    "group": "dragmasker",
+    "width": 512,
+    "height": 349
+  },
+  {
+    "file": "assets/gallery/media-036.webp",
+    "thumb": "assets/thumbs/media-036.webp",
+    "source": "dragmasker_id0110_DefineBits.jpg",
+    "group": "dragmasker",
+    "width": 512,
+    "height": 349
+  },
+  {
+    "file": "assets/gallery/media-037.webp",
+    "thumb": "assets/thumbs/media-037.webp",
+    "source": "dragmasker_id0113_DefineBits.jpg",
+    "group": "dragmasker",
+    "width": 512,
+    "height": 349
+  },
+  {
+    "file": "assets/gallery/media-038.webp",
+    "thumb": "assets/thumbs/media-038.webp",
+    "source": "dragmasker_id0116_DefineBits.jpg",
+    "group": "dragmasker",
+    "width": 512,
+    "height": 349
+  },
+  {
+    "file": "assets/gallery/media-039.webp",
+    "thumb": "assets/thumbs/media-039.webp",
+    "source": "dragmasker_id0119_DefineBits.jpg",
+    "group": "dragmasker",
+    "width": 512,
+    "height": 349
+  },
+  {
+    "file": "assets/gallery/media-040.webp",
+    "thumb": "assets/thumbs/media-040.webp",
+    "source": "games_tetris_id0016_DefineBitsJPEG2.jpg",
+    "group": "games_tetris",
+    "width": 370,
+    "height": 430
+  },
+  {
+    "file": "assets/gallery/media-041.webp",
+    "thumb": "assets/thumbs/media-041.webp",
+    "source": "games_tetris_id0195_DefineBitsJPEG2.jpg",
+    "group": "games_tetris",
+    "width": 370,
+    "height": 430
+  },
+  {
+    "file": "assets/gallery/media-042.webp",
+    "thumb": "assets/thumbs/media-042.webp",
+    "source": "hp4_id0143_DefineBits.jpg",
+    "group": "hp4",
+    "width": 180,
+    "height": 184
+  },
+  {
+    "file": "assets/gallery/media-043.webp",
+    "thumb": "assets/thumbs/media-043.webp",
+    "source": "hp4_id0146_DefineBits.jpg",
+    "group": "hp4",
+    "width": 202,
+    "height": 195
+  },
+  {
+    "file": "assets/gallery/media-044.webp",
+    "thumb": "assets/thumbs/media-044.webp",
+    "source": "hp4_id0149_DefineBits.jpg",
+    "group": "hp4",
+    "width": 216,
+    "height": 217
+  },
+  {
+    "file": "assets/gallery/media-045.webp",
+    "thumb": "assets/thumbs/media-045.webp",
+    "source": "hp4_id0152_DefineBits.jpg",
+    "group": "hp4",
+    "width": 234,
+    "height": 231
+  },
+  {
+    "file": "assets/gallery/media-046.webp",
+    "thumb": "assets/thumbs/media-046.webp",
+    "source": "hp4_id0155_DefineBits.jpg",
+    "group": "hp4",
+    "width": 242,
+    "height": 240
+  },
+  {
+    "file": "assets/gallery/media-047.webp",
+    "thumb": "assets/thumbs/media-047.webp",
+    "source": "hp4_id0158_DefineBits.jpg",
+    "group": "hp4",
+    "width": 258,
+    "height": 259
+  },
+  {
+    "file": "assets/gallery/media-048.webp",
+    "thumb": "assets/thumbs/media-048.webp",
+    "source": "hp4_id0161_DefineBits.jpg",
+    "group": "hp4",
+    "width": 278,
+    "height": 287
+  },
+  {
+    "file": "assets/gallery/media-049.webp",
+    "thumb": "assets/thumbs/media-049.webp",
+    "source": "hp4_id0164_DefineBits.jpg",
+    "group": "hp4",
+    "width": 284,
+    "height": 297
+  },
+  {
+    "file": "assets/gallery/media-050.webp",
+    "thumb": "assets/thumbs/media-050.webp",
+    "source": "hp4_id0167_DefineBits.jpg",
+    "group": "hp4",
+    "width": 312,
+    "height": 301
+  },
+  {
+    "file": "assets/gallery/media-051.webp",
+    "thumb": "assets/thumbs/media-051.webp",
+    "source": "hp4_id0170_DefineBits.jpg",
+    "group": "hp4",
+    "width": 322,
+    "height": 309
+  },
+  {
+    "file": "assets/gallery/media-052.webp",
+    "thumb": "assets/thumbs/media-052.webp",
+    "source": "hp4_id0173_DefineBits.jpg",
+    "group": "hp4",
+    "width": 322,
+    "height": 309
+  },
+  {
+    "file": "assets/gallery/media-053.webp",
+    "thumb": "assets/thumbs/media-053.webp",
+    "source": "hp4_id0176_DefineBits.jpg",
+    "group": "hp4",
+    "width": 342,
+    "height": 320
+  },
+  {
+    "file": "assets/gallery/media-054.webp",
+    "thumb": "assets/thumbs/media-054.webp",
+    "source": "hp4_id0179_DefineBits.jpg",
+    "group": "hp4",
+    "width": 342,
+    "height": 324
+  },
+  {
+    "file": "assets/gallery/media-055.webp",
+    "thumb": "assets/thumbs/media-055.webp",
+    "source": "hp4_id0182_DefineBits.jpg",
+    "group": "hp4",
+    "width": 362,
+    "height": 334
+  },
+  {
+    "file": "assets/gallery/media-056.webp",
+    "thumb": "assets/thumbs/media-056.webp",
+    "source": "hp4_id0185_DefineBits.jpg",
+    "group": "hp4",
+    "width": 362,
+    "height": 334
+  },
+  {
+    "file": "assets/gallery/media-057.webp",
+    "thumb": "assets/thumbs/media-057.webp",
+    "source": "hp4_id0188_DefineBits.jpg",
+    "group": "hp4",
+    "width": 376,
+    "height": 339
+  },
+  {
+    "file": "assets/gallery/media-058.webp",
+    "thumb": "assets/thumbs/media-058.webp",
+    "source": "hp4_id0191_DefineBits.jpg",
+    "group": "hp4",
+    "width": 380,
+    "height": 343
+  },
+  {
+    "file": "assets/gallery/media-059.webp",
+    "thumb": "assets/thumbs/media-059.webp",
+    "source": "hp4_id0194_DefineBits.jpg",
+    "group": "hp4",
+    "width": 384,
+    "height": 347
+  },
+  {
+    "file": "assets/gallery/media-060.webp",
+    "thumb": "assets/thumbs/media-060.webp",
+    "source": "hp4_id0197_DefineBits.jpg",
+    "group": "hp4",
+    "width": 396,
+    "height": 348
+  },
+  {
+    "file": "assets/gallery/media-061.webp",
+    "thumb": "assets/thumbs/media-061.webp",
+    "source": "hp4_id0201_DefineBits.jpg",
+    "group": "hp4",
+    "width": 396,
+    "height": 350
+  },
+  {
+    "file": "assets/gallery/media-062.webp",
+    "thumb": "assets/thumbs/media-062.webp",
+    "source": "hp4_id0204_DefineBits.jpg",
+    "group": "hp4",
+    "width": 398,
+    "height": 353
+  },
+  {
+    "file": "assets/gallery/media-063.webp",
+    "thumb": "assets/thumbs/media-063.webp",
+    "source": "hp4_id0207_DefineBits.jpg",
+    "group": "hp4",
+    "width": 400,
+    "height": 355
+  },
+  {
+    "file": "assets/gallery/media-064.webp",
+    "thumb": "assets/thumbs/media-064.webp",
+    "source": "hp4_id0210_DefineBits.jpg",
+    "group": "hp4",
+    "width": 406,
+    "height": 358
+  },
+  {
+    "file": "assets/gallery/media-065.webp",
+    "thumb": "assets/thumbs/media-065.webp",
+    "source": "hp4_id0213_DefineBits.jpg",
+    "group": "hp4",
+    "width": 404,
+    "height": 358
+  },
+  {
+    "file": "assets/gallery/media-066.webp",
+    "thumb": "assets/thumbs/media-066.webp",
+    "source": "hp4_id0216_DefineBits.jpg",
+    "group": "hp4",
+    "width": 424,
+    "height": 359
+  },
+  {
+    "file": "assets/gallery/media-067.webp",
+    "thumb": "assets/thumbs/media-067.webp",
+    "source": "hp4_id0219_DefineBits.jpg",
+    "group": "hp4",
+    "width": 420,
+    "height": 361
+  },
+  {
+    "file": "assets/gallery/media-068.webp",
+    "thumb": "assets/thumbs/media-068.webp",
+    "source": "hp4_id0222_DefineBits.jpg",
+    "group": "hp4",
+    "width": 430,
+    "height": 361
+  },
+  {
+    "file": "assets/gallery/media-069.webp",
+    "thumb": "assets/thumbs/media-069.webp",
+    "source": "hp4_id0225_DefineBits.jpg",
+    "group": "hp4",
+    "width": 422,
+    "height": 361
+  },
+  {
+    "file": "assets/gallery/media-070.webp",
+    "thumb": "assets/thumbs/media-070.webp",
+    "source": "hp4_id0228_DefineBits.jpg",
+    "group": "hp4",
+    "width": 490,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-071.webp",
+    "thumb": "assets/thumbs/media-071.webp",
+    "source": "hp4_id0231_DefineBits.jpg",
+    "group": "hp4",
+    "width": 572,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-072.webp",
+    "thumb": "assets/thumbs/media-072.webp",
+    "source": "hp4_id0234_DefineBits.jpg",
+    "group": "hp4",
+    "width": 780,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-073.webp",
+    "thumb": "assets/thumbs/media-073.webp",
+    "source": "hp4_id0237_DefineBits.jpg",
+    "group": "hp4",
+    "width": 780,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-074.webp",
+    "thumb": "assets/thumbs/media-074.webp",
+    "source": "hp4_id0240_DefineBits.jpg",
+    "group": "hp4",
+    "width": 780,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-075.webp",
+    "thumb": "assets/thumbs/media-075.webp",
+    "source": "hp4_id0243_DefineBits.jpg",
+    "group": "hp4",
+    "width": 612,
+    "height": 370
+  },
+  {
+    "file": "assets/gallery/media-076.webp",
+    "thumb": "assets/thumbs/media-076.webp",
+    "source": "hp4_id0250_DefineBitsJPEG2.jpg",
+    "group": "hp4",
+    "width": 914,
+    "height": 780
+  },
+  {
+    "file": "assets/gallery/media-077.webp",
+    "thumb": "assets/thumbs/media-077.webp",
+    "source": "hp4_id0257_DefineBitsJPEG2.jpg",
+    "group": "hp4",
+    "width": 515,
+    "height": 352
+  },
+  {
+    "file": "assets/gallery/media-078.webp",
+    "thumb": "assets/thumbs/media-078.webp",
+    "source": "hp4_id0330_DefineBitsJPEG2.jpg",
+    "group": "hp4",
+    "width": 772,
+    "height": 527
+  },
+  {
+    "file": "assets/gallery/media-079.webp",
+    "thumb": "assets/thumbs/media-079.webp",
+    "source": "intro_id0026_DefineBits.jpg",
+    "group": "intro",
+    "width": 680,
+    "height": 648
+  },
+  {
+    "file": "assets/gallery/media-080.webp",
+    "thumb": "assets/thumbs/media-080.webp",
+    "source": "intro_id0035_DefineBits.jpg",
+    "group": "intro",
+    "width": 602,
+    "height": 589
+  },
+  {
+    "file": "assets/gallery/media-081.webp",
+    "thumb": "assets/thumbs/media-081.webp",
+    "source": "intro_id0040_DefineBits.jpg",
+    "group": "intro",
+    "width": 1002,
+    "height": 586
+  },
+  {
+    "file": "assets/gallery/media-082.webp",
+    "thumb": "assets/thumbs/media-082.webp",
+    "source": "intro_id0043_DefineBits.jpg",
+    "group": "intro",
+    "width": 616,
+    "height": 536
+  },
+  {
+    "file": "assets/gallery/media-083.webp",
+    "thumb": "assets/thumbs/media-083.webp",
+    "source": "ninja_id0015_DefineBitsJPEG2.jpg",
+    "group": "ninja",
+    "width": 3506,
+    "height": 260
+  },
+  {
+    "file": "assets/gallery/media-084.webp",
+    "thumb": "assets/thumbs/media-084.webp",
+    "source": "ninja_id0106_DefineBitsJPEG3.jpg",
+    "group": "ninja",
+    "width": 1317,
+    "height": 150
+  },
+  {
+    "file": "assets/gallery/media-085.webp",
+    "thumb": "assets/thumbs/media-085.webp",
+    "source": "ninja_id0139_DefineBitsJPEG2.jpg",
+    "group": "ninja",
+    "width": 750,
+    "height": 380
+  },
+  {
+    "file": "assets/gallery/media-086.webp",
+    "thumb": "assets/thumbs/media-086.webp",
+    "source": "timeline_as3_id0012_DefineBits.jpg",
+    "group": "timeline_as3",
+    "width": 400,
+    "height": 200
+  }
+]

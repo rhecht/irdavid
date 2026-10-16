@@ -1,0 +1,27 @@
+{
+  "version": "v4",
+  "scope": "Timeline and HP comparison",
+  "timeline_periods": 17,
+  "languages": [
+    "he",
+    "en",
+    "es",
+    "fr",
+    "ru"
+  ],
+  "assets_resolved": true,
+  "checks": [
+    "he/timeline.html internal local assets: OK",
+    "he/hp.html internal local assets: OK",
+    "en/timeline.html internal local assets: OK",
+    "en/hp.html internal local assets: OK",
+    "es/timeline.html internal local assets: OK",
+    "es/hp.html internal local assets: OK",
+    "fr/timeline.html internal local assets: OK",
+    "fr/hp.html internal local assets: OK",
+    "ru/timeline.html internal local assets: OK",
+    "ru/hp.html internal local assets: OK"
+  ],
+  "interactive_browser_test": "Not completed: Chromium blocked by administrator for file:// and localhost URLs",
+  "checked_pages": 10
+}

@@ -1,0 +1,19 @@
+Section,Status,Primary source,Notes
+2009 homepage,Reconstructed with preserved media,Original Hebrew homepage HTML and intro/hp4 SWFs,Visual interface is a modern HTML5 interpretation
+English timeline,Original source content preserved,City of David - Timeline.html,All 16 chapters and associated panels
+Ir David Foundation,Original source content preserved,City of David - The Ir David Foundation.html,Three source paragraphs
+News headlines,Original source content preserved,City of David_newsticker.html,Five preserved headlines; articles absent
+Background audio,Original recovered stream,bgsound.swf,3m04s MP3
+Introductory video,Original recovered video,start.flv,Converted to MP4
+Water System animation,Original recovered clip,CityofDavidWaterSystem.swf,Short embedded video clip
+Panorama,Original preserved image,CityofDavidPanorama.swf,5394x400 source image with recreated drag/slider interaction
+Gallery,Curated original assets,SWF image extraction,86 selected unique full-size media samples
+Matching-pairs game,Modern reimplementation using original art,MatchingPairs2.swf,New HTML5 game mechanics
+City Tetris,Playable new HTML5 implementation using recovered textures and photos,games_tetris.swf,Falling-block rules with levels; missing external photo2-photo9.swf are substituted; original ActionScript not ported
+Jerusalem Adventure,Playable new HTML5 platform game using recovered sprites,ninja.swf,Reconstructed two-stage platform layout with original hero/snake/eagle/fire/treasure graphics; original levels not ported
+Recovered game audio,12 original MP3 sound assets,games_tetris.swf and ninja.swf,Opt-in sound effects; event assignments reconstructed
+Hebrew homepage,Partially preserved original text,City of David - עיר דוד - hp.html,Not complete Hebrew site
+Spanish/French/Russian pages,Unavailable,Original language-navigation SWFs only,No full translated article captures
+Nine tour location videos,Missing,dragmasker.swf,video/place1.flv etc.
+Timeline XML/image data,Missing,timeline_as3.swf,Original runtime XML assets not supplied
+Other original articles,Missing,ASP navigation links in saved HTML,No server-generated article bodies supplied

@@ -1,0 +1,104 @@
+/* City of David historical reconstruction v6: faithful recovered art, no external dependencies. */
+.site-body{background-color:#4c4c51!important;background-image:linear-gradient(to bottom,transparent 0,rgba(0,0,0,.08) 138px,#111115 297px,#4c4c51 650px)!important;background-repeat:no-repeat!important}
+.site-body::before{content:"";position:absolute;z-index:0;pointer-events:none;left:0;right:0;top:0;height:297px;background:url('head/bgPic1.jpg') no-repeat center top;background-size:1020px 297px;opacity:.93}
+.site-body[data-bg="2"]::before{background-image:url('head/bgPic2.jpg')}
+.site-body[data-bg="3"]::before{background-image:url('head/bgPic3.jpg')}
+.site-body.tour-body{background-image:linear-gradient(to bottom,transparent 0,rgba(0,0,0,.08) 150px,#131316 340px,#4c4c51 700px)!important}
+.site-head,.site-nav,.site-main,.site-foot{position:relative;z-index:1}
+.site-head{height:74px;background:rgba(7,8,10,.15);border-bottom:1px solid #9d94844a}
+.site-head .head-inner{width:min(1000px,calc(100% - 20px));height:74px;display:flex;align-items:center;gap:12px}
+.site-logo{order:0;flex:0 0 auto}.site-logo img{width:265px;max-width:32vw;height:auto}
+.site-linkstack{display:flex;gap:9px;align-items:center;margin-inline-start:auto;color:#c4a048}
+.site-linkstack a.v6-utility{font-size:11px;color:#c8a441;max-width:118px;line-height:1.2;padding:5px 7px;background:#0002;border:0;border-inline-start:1px dotted #c5bcaa66}
+.site-flags{display:flex;gap:5px;align-items:center;direction:ltr!important;background:#0002;padding:3px 5px}
+.site-flags a{height:25px;width:25px;min-width:25px;padding:3px!important;display:inline-flex;justify-content:center;align-items:center;background:transparent!important;border:1px solid transparent!important}
+.site-flags a img{display:block;width:18px;height:17px;image-rendering:auto;object-fit:contain;transition:transform .12s}
+.site-flags a:hover,.site-flags a[aria-current="page"]{border-color:#bea25c!important;background:#32281288!important}
+.site-flags a:hover img{transform:scale(1.25)}
+.site-nav{background:#08090bb5;min-height:33px;height:auto;border-top:1px solid #c5c4c428;border-bottom:1px solid #111}
+.site-nav .navinner{width:min(1000px,calc(100% - 16px));min-height:32px;justify-content:space-between;gap:0}
+.site-nav a.v6-navlink{font-size:11px;padding:9px 10px 8px;position:relative;text-align:center;border:0;border-inline-end:1px dotted #b3ad966a;white-space:nowrap;background:none}
+.site-nav a.v6-navlink:hover,.site-nav a.v6-navlink.sel{background:#12100f33;color:#e1b345}
+.site-nav a.v6-navlink::before{content:"";position:absolute;pointer-events:none;bottom:calc(100% + 3px);left:50%;transform:translateX(-50%) scale(.75);opacity:0;width:34px;height:42px;background-repeat:no-repeat;background-size:contain;background-position:bottom center;transition:opacity .14s,transform .14s}
+.site-nav a.v6-navlink:hover::before,.site-nav a.v6-navlink:focus-visible::before{opacity:1;transform:translateX(-50%) scale(1)}
+.site-nav a[data-icon="home"]::before{background-image:url('head/cityofdavidnav_id0172_DefineBitsLossless2.png')}
+.site-nav a[data-icon="hp"]::before{background-image:url('head/cityofdavidnav_id0175_DefineBitsLossless2.png')}
+.site-nav a[data-icon="timeline"]::before{background-image:url('head/cityofdavidnav_id0178_DefineBitsLossless2.png')}
+.site-nav a[data-icon="panorama"]::before{background-image:url('head/cityofdavidnav_id0181_DefineBitsLossless2.png')}
+.site-nav a[data-icon="articles"]::before{background-image:url('head/cityofdavidnav_id0184_DefineBitsLossless2.png')}
+.site-nav a[data-icon="book"]::before{background-image:url('head/cityofdavidnav_id0187_DefineBitsLossless2.png')}
+.site-nav a[data-icon="news"]::before{background-image:url('head/cityofdavidnav_id0190_DefineBitsLossless2.png')}
+.site-nav a[data-icon="surroundings"]::before{background-image:url('head/cityofdavidnav_id0193_DefineBitsLossless2.png')}
+.site-nav a[data-icon="foundation"]::before{background-image:url('head/cityofdavidnav_id0196_DefineBitsJPEG3.png')}
+.site-nav a[data-icon="contact"]::before{background-image:url('head/cityofdavidnav_id0199_DefineBitsLossless2.png')}
+/* HP: the original Earth-fly-in sequence is a layer over the previous historical comparison, not a replacement. */
+.hp6-intro{position:absolute;z-index:12;inset:0 0 auto 0;aspect-ratio:512 / 349;overflow:hidden;background:#000;border:1px solid #7c745f}
+.hp-v4-main{position:relative}
+.hp6-intro.hp6-hidden{display:none}
+.hp6-screen{width:100%;height:100%;position:relative;overflow:hidden;background:radial-gradient(circle at center,#05091c 5%,#000 72%);display:flex;align-items:center;justify-content:center}
+.hp6-screen>img{display:block;width:56%;height:87%;object-fit:contain;filter:drop-shadow(0 0 15px #22487f);transition:none;position:absolute;z-index:2}
+.hp6-screen.hp6-zoom>img{animation:hp6-zoom .7s ease-in forwards}
+@keyframes hp6-zoom{to{transform:scale(4.6);opacity:.12}}
+.hp6-radar{position:absolute;inset:0;opacity:0;z-index:3;background: url('head/hp4_id0243_DefineBits.png') center / 100% 100% no-repeat;transition:opacity .3s}
+.hp6-screen.hp6-radaring .hp6-radar{opacity:1}
+.hp6-radar::after{content:"";position:absolute;left:25%;top:11%;width:49%;aspect-ratio:1;border:1px solid #82c3c85c;border-radius:100%;background:conic-gradient(from 20deg,transparent 0 250deg,#5afff524 332deg,transparent 359deg);box-shadow:0 0 45px #56f4ff19,inset 0 0 20px #52fff51b;animation:hp6-sweep 1.7s linear infinite}
+@keyframes hp6-sweep{to{transform:rotate(360deg)}}
+.hp6-overlay{position:absolute;inset:0;z-index:9;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:10px;padding:0 0 24px;background:linear-gradient(transparent 35%,#000d 96%);color:#f3e7cd}
+.hp6-overlay strong{font-size:17px;color:#f2c264;text-shadow:0 2px 5px #000}
+.hp6-overlay button,.hp6-replay{border:1px solid #b48f3b;background:#1d1a17ed;color:#edd3a0;padding:7px 11px;font-weight:bold;cursor:pointer;font-size:11px}
+.hp6-overlay button:hover,.hp6-replay:hover{color:white;background:#45371e}
+.hp6-overlay button:focus-visible{outline:2px solid white}
+.hp6-overlay.hp6-playing{background:none;pointer-events:none}
+.hp6-overlay.hp6-playing strong,.hp6-overlay.hp6-playing #hp6-start{display:none}
+.hp6-overlay.hp6-playing #hp6-skip{pointer-events:auto;background:#0009}
+.hp6-intro.hp6-finishing{animation:hp6-finish .65s ease forwards}
+@keyframes hp6-finish{to{opacity:0;visibility:hidden}}
+.hp6-replay{font-size:10px;padding:4px 6px;margin-left:3px}
+.hp-v4-layout .hp-v4-label{font-weight:bold;text-shadow:1px 2px 3px #000}
+.hp-v4-layout .hp-v4-corner-ribbon{font-size:10px}
+.hp-v4-sidebar audio{display:block;max-width:100%;width:100%}
+.pano-v6-article{margin:30px auto;max-width:720px;min-height:80px;padding:12px;border:1px solid #665a45;background:#0c0d1091;color:#dfd4bd;line-height:1.75;clear:both}
+.pano-v6-article img{float:inline-start;max-width:180px;margin:0 16px 8px;border:1px solid #998762}
+.pano-v6-article h2{font-size:15px;color:#d7ab4f;margin:0 0 8px}.pano-v6-article p{font-size:12px}
+/* Surroundings: late-2007 color regions and clickable source-archive map. */
+.sviva-page .site-main{padding-top:25px;width:min(1040px,calc(100% - 30px));min-height:690px}
+.sviva-main .page-title{width:min(650px,100%);margin:0 auto 13px;font-size:17px}
+.sviva6-layout{position:relative;display:grid;grid-template-columns:170px minmax(300px,460px);gap:25px;direction:ltr;justify-content:center;align-items:start}
+.sviva6-aside{grid-column:1;grid-row:1;min-width:0;font-size:11px;text-align:start;color:#c8b99a}
+.sviva6-side-label{font-size:11px;color:#cba334;font-weight:bold;margin:3px 0 10px}
+.sviva6-thumbnail{width:160px;height:160px;object-fit:cover;border:1px solid #d4b05c}
+.sviva6-aside h2{font-size:13px;color:#deb35d;margin:12px 0 4px}
+.sviva6-tip{line-height:1.6;color:#c4c2bf;margin:5px 0 10px}
+.sviva6-site-list{display:flex;flex-direction:column;gap:2px;max-height:340px;overflow:auto;direction:rtl}
+body[data-lang]:not([data-lang="he"]) .sviva6-site-list{direction:ltr}
+.sviva6-listlink{background:#1213157d;border:0;border-bottom:1px solid #67615c;color:#b4a9a3;text-align:start;font-size:11px;padding:5px;cursor:pointer}
+.sviva6-listlink:hover,.sviva6-listlink.active{color:#f1c866;background:#302820}
+.sviva6-map-shell{grid-column:2;grid-row:1;width:100%;max-width:460px}
+.sviva6-map{position:relative;border:2px solid #aaa3a0;overflow:hidden;width:100%;aspect-ratio:1333/1768;background:#444}
+.sviva6-base{position:absolute;inset:0;width:100%;height:100%;object-fit:fill}
+.sviva6-regions{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;mix-blend-mode:multiply}
+.sviva6-pin{position:absolute;z-index:2;width:15px;height:15px;padding:0;background:#e4a810;border:1px solid #68410c;box-shadow:1px 1px 2px #333;transform:translate(-50%,-50%);cursor:pointer;border-radius:1px}
+.sviva6-pin span{display:block;line-height:12px;text-align:center;font-weight:bold;font-size:9px;color:#6f4000}
+.sviva6-pin:hover,.sviva6-pin.active{background:#ffee53;box-shadow:0 0 0 4px #faee783e,0 0 0 1px #17140a}
+.sviva6-note{color:#a99b8a;text-align:center;font-size:10px;margin:15px 0}
+.sviva-page[data-lang="he"] .sviva6-aside{text-align:right;direction:rtl}
+@media(max-width:860px){.site-head .head-inner,.site-nav .navinner{width:calc(100% - 12px)}.site-logo img{max-width:32vw}.site-nav a.v6-navlink{font-size:10px;padding:8px 4px}.site-linkstack a.v6-utility{font-size:9px}.site-flags{gap:1px}.site-flags a{width:22px;min-width:22px}}
+@media(max-width:590px){.site-head{height:auto}.site-head .head-inner{height:auto;min-height:70px;flex-wrap:wrap;justify-content:center}.site-logo img{max-width:none;width:170px}.site-linkstack{margin-inline-start:0;order:3;width:100%;justify-content:center}.site-nav .navinner{flex-wrap:wrap;justify-content:center}.site-nav a.v6-navlink{font-size:10px;padding:6px}.sviva6-layout{display:flex;flex-direction:column;align-items:center;gap:10px}.sviva6-map-shell{order:1}.sviva6-aside{order:2;width:100%}.sviva6-thumbnail{width:130px;height:100px}.sviva6-site-list{max-height:150px}.pano-v6-article img{float:none;display:block;max-width:100%;width:210px}.hp6-replay{display:none}}
+@media(prefers-reduced-motion:reduce){.hp6-radar::after{animation:none}.hp6-intro.hp6-finishing{animation:none;display:none}}
+
+/* v6 refinement: the historic background recurs across wide browser windows, as it does in the recorded site. */
+.site-body::before{background-repeat:repeat-x;background-size:1020px 297px}
+/* The Early Jerusalem map now uses the complete historic colored map and precise original marker art
+   from the user's screenshot, rather than guessed polygons on the uncolored SWF aerial image. */
+.sviva6-map{aspect-ratio:498/653;max-width:498px}
+.sviva6-map-shell{max-width:498px}
+.sviva6-pin{width:26px;height:26px;background:transparent!important;border:none!important;box-shadow:none!important;border-radius:0}
+.sviva6-pin span{display:none}
+.sviva6-pin:hover,.sviva6-pin:focus-visible,.sviva6-pin.active:focus-visible{box-shadow:0 0 0 2px #ffd34a,0 0 0 6px #f8d33b80!important;outline:none;border-radius:2px}
+@media(min-width:980px){
+  .sviva6-layout{display:block;position:relative;width:100%;height:auto;min-height:680px}
+  .sviva6-map-shell{margin:0 auto;width:435px}
+  .sviva6-aside{position:absolute;top:0;left:calc(50% - 49vw);width:160px}
+}
+@media(max-width:979px){.sviva6-layout{display:flex;flex-direction:column;align-items:center}
+ .sviva6-aside{order:2;width:min(460px,100%)}.sviva6-map-shell{order:1;width:min(100%,498px)}}

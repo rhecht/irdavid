@@ -1,0 +1,1 @@
+(()=>{'use strict';document.querySelectorAll('.locale-unsupported').forEach(btn=>btn.addEventListener('click',()=>{alert('הגרסה בשפה זו עדיין אינה משוחזרת. הגרסאות בעברית ובאנגלית זמינות.')}));})();
